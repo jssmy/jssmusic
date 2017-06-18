@@ -1,0 +1,31 @@
+displayAudioAds({
+	format: {
+		formatType : "massmotion",
+		formatSize : "990x120",
+                formatId: "7073"
+	},
+	content: {
+		urlContent : ""
+	},
+	background: {
+	},
+	audio: {
+		url : "http://cdn-content.deezer.com/ads/mp3_vide_55sec.mp3",
+		duration : "0"
+	},
+	textlink: {
+		text: ""
+	},
+	tracking: {
+		clickCommand : "https://ww400.smartadserver.com/diff/400/5625403/go1.asp?5625403%3B114873%3B4482196059497374720%3B9000492939231298%3BS%3Bsystemtarget=%24qc%3d1310319556%3b%24ql%3dlow%3b%24qpc%3d%3b%24qpp%3d0%3b%24qt%3d57_0_0t%3b%24dma%3d0%3b%24b%3d12450%3b%24o%3d99999%3b%24sw%3d1280%3b%24sh%3d768%3Btarget=%24dt%3d1t%3belement_type%3des%3belement_id%3d0%3belement_style%3d0%3buser_age%3d21%3buser_sexe%3dM%3benv%3dPROD%3bpr%3d0%3buser_id%3d1514870346%3busername%3dJoset+Manihuari+Yaricahua%3bfirstname%3dJoset%3blastname%3dManihuari+Yaricahua%3bpartners%3d0%3boffer_id%3d0%3bfocus%3dfalse%3bsite%3ddeezer%3buser_fc%3d1%3bfavorite_tag%3d0%3blang%3des%3bplayer_play%3d0%3bmt%3d0%3b%24hc%3B16379423%3Bclickvars=",
+		clickTagMethod : "",
+		pixelAgence : "",
+		pixelAgenceScript: "'%3Ciframe%20src%3D%22http%3A%2F%2Fbs.serving-sys.com%2FBurstingPipe%2FadServer.bs%3Fcn%3Drsb%26c%3D28%26pli%3D18169608%26PluID%3D0%26w%3D1%26h%3D1%26ord%3D%25n%26ifrm%3D2%26ucm%3Dtrue%26ifl%3D%24%24http%3A%2F%2Fcdn-content.deezer.com%2Fads%2FaddineyeV2.html%24%24%26ncu%3D%24%24https://ww400.smartadserver.com/clic/countgo.asp?5625403;114873;4482196059497374720;9000492939231298;S;systemtarget=%24qc%3d1310319556%3b%24ql%3dlow%3b%24qpc%3d%3b%24qpp%3d0%3b%24qt%3d57_0_0t%3b%24dma%3d0%3b%24b%3d12450%3b%24o%3d99999%3b%24sw%3d1280%3b%24sh%3d768;target=%24dt%3d1t%3belement_type%3des%3belement_id%3d0%3belement_style%3d0%3buser_age%3d21%3buser_sexe%3dM%3benv%3dPROD%3bpr%3d0%3buser_id%3d1514870346%3busername%3dJoset+Manihuari+Yaricahua%3bfirstname%3dJoset%3blastname%3dManihuari+Yaricahua%3bpartners%3d0%3boffer_id%3d0%3bfocus%3dfalse%3bsite%3ddeezer%3buser_fc%3d1%3bfavorite_tag%3d0%3blang%3des%3bplayer_play%3d0%3bmt%3d0%3b%24hc;16379423;URL=%24%24%26z%3D999%22%20width%3D1%20height%3D1%20marginwidth%3D0%20marginheight%3D0%20hspace%3D0%20vspace%3D0%20frameborder%3D0%20%20scrolling%3Dno%20bordercolor%3D%22%23000000%22%3E%0A%3C%2Fiframe%3E\r\n'"
+	},
+	redirect: {
+		js: '\r\n'
+	}
+});
+
+
+

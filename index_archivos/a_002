@@ -1,0 +1,49 @@
+displayAdsPlayer({
+	format: {
+		formatType: "redirect",
+		formatSize: "728x90",
+                formatId: "6955",
+                campaignId: "746725",
+                insertionId: "5621467",
+                page: "114873"
+	},
+	content: {
+		urlContent: ""
+	},
+	background: {
+		backgroundUrl: "",
+                backgroundColor: ""
+	},
+        billboard: {
+		billboardUrl: "",
+                billboardFormatSize: "990x435"
+	},
+	tracking: {
+		clickCommand: "",
+		clickTagMethod: "",
+		pixelAgence: "",
+                pixelAgenceScript: "",
+                alenty: "",
+                timestamp : "1672914999421018"
+	},
+        expand: {
+		urlContentExpand: "",
+		widthExpand: "",
+		heightExpand: "",
+		posXExpand: "",
+		posYExpand: "",
+		autoExpand: "No"
+	},
+	redirect: {
+		js: "%3Cscript%20type%3D%22text%2Fjavascript%22%3E%0A%20%20%20%20document.write(%27%3Ciframe%20frameborder%3D%220%22%20marginwidth%3D%220%22%20marginheight%3D%220%22%20scrolling%3D%22NO%22%20width%3D%22728%22%20height%3D%2290%22%20src%3D%22http%3A%2F%2Fad.360yield.com%2Fadi%3Fp%3D901883%26w%3D728%26h%3D90%26tz%3D%27%2B(new%20Date().getTimezoneOffset())%2B%27%22%3E%3C%2Fiframe%3E%27)%3B%0A%20%20%3C%2Fscript%3E",
+                clickCommand : "https://ww400.smartadserver.com/clic/countgo.asp?5621467;114873;0;1672914999421018;V;systemtarget=%24qc%3d1310319556%3b%24ql%3dlow%3b%24qpc%3d%3b%24qpp%3d0%3b%24qt%3d57_0_0t%3b%24dma%3d0%3b%24b%3d12450%3b%24o%3d99999;target=%24dt%3d1t%3buser_age%3d21%3buser_sexe%3dM%3benv%3dPROD%3bpr%3d0%3buser_id%3d1514870346%3busername%3dJoset+Manihuari+Yaricahua%3bfirstname%3dJoset%3blastname%3dManihuari+Yaricahua%3bpartners%3d0%3boffer_id%3d0%3bfocus%3dtrue%3bsite%3ddeezer%3buser_fc%3d1%3bfavorite_tag%3d0%3blang%3des%3bplayer_play%3d0%3bmt%3d0;0;URL="
+	},
+	options: {
+		repeat: "no-repeat",
+		displayBackground: true,
+                refresh: true,
+allow_audio:true,
+                refreshDuration: 240
+	}
+});
+

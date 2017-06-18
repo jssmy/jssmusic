@@ -1,0 +1,45 @@
+displayAdsFooter({
+	format: {
+		formatType: "image",
+		formatSize: "728x90",
+                formatId: "27374",
+                campaignId: "590542",
+                insertionId: "4023316",
+                page: "114873"
+	},
+	content: {
+		urlContent: "http://cdn-content.deezer.com/ads/autopromo/2014/ES/save-feature_es_bgblack-blue_728x90-2500-2.gif"
+	},
+        billboard: {
+		billboardUrl: "",
+                billboardFormatSize: "990x435"
+	},
+	tracking: {
+		clickCommand: "https://ww400.smartadserver.com/diff/400/4023316/go32.asp?4023316%3B114873%3B0%3B1672914999421018%3BS%3Bsystemtarget=%24qc%3d1310319556%3b%24ql%3dlow%3b%24qpc%3d%3b%24qpp%3d0%3b%24qt%3d57_0_0t%3b%24dma%3d0%3b%24b%3d12450%3b%24o%3d99999%3Btarget=%24dt%3d1t%3buser_age%3d21%3buser_sexe%3dM%3benv%3dPROD%3bpr%3d0%3buser_id%3d1514870346%3busername%3dJoset+Manihuari+Yaricahua%3bfirstname%3dJoset%3blastname%3dManihuari+Yaricahua%3bpartners%3d0%3boffer_id%3d0%3bfocus%3dtrue%3bsite%3ddeezer%3buser_fc%3d1%3bfavorite_tag%3d0%3blang%3des%3bplayer_play%3d0%3bmt%3d0%3B12405738%3Bclickvars=",
+		clickTagMethod: "",
+		pixelAgence: "",
+                alenty: "",
+                timestamp : "1672914999421018"
+	},
+        expand: {
+		urlContentExpand: "",
+		widthExpand: "",
+		heightExpand: "",
+		posXExpand: "",
+		posYExpand: "",
+		autoExpand: "No"
+	},
+	redirect: {
+		js: "",
+                clickCommand : "https://ww400.smartadserver.com/clic/countgo.asp?4023316;114873;0;1672914999421018;S;systemtarget=%24qc%3d1310319556%3b%24ql%3dlow%3b%24qpc%3d%3b%24qpp%3d0%3b%24qt%3d57_0_0t%3b%24dma%3d0%3b%24b%3d12450%3b%24o%3d99999;target=%24dt%3d1t%3buser_age%3d21%3buser_sexe%3dM%3benv%3dPROD%3bpr%3d0%3buser_id%3d1514870346%3busername%3dJoset+Manihuari+Yaricahua%3bfirstname%3dJoset%3blastname%3dManihuari+Yaricahua%3bpartners%3d0%3boffer_id%3d0%3bfocus%3dtrue%3bsite%3ddeezer%3buser_fc%3d1%3bfavorite_tag%3d0%3blang%3des%3bplayer_play%3d0%3bmt%3d0;12405738;URL="
+	},
+	options: {
+		repeat: "no-repeat",
+		displayBackground: true,
+                refresh: false,
+                allow_audio:true,
+                refreshDuration: 0,
+                allow_player:true
+	}
+});
+

@@ -1,0 +1,50 @@
+displayAdsFeed({
+  format: {
+    formatType: "Banner",
+    formatSize: "728x90",
+    formatId: "22283",
+    campaignId: "783003",
+    insertionId: "4005631",
+    page: "114873"
+	},
+  banFormat: {
+    banFormatType: "redirect",
+    banFormatSize: "728x90",
+    banUrlContent: "",
+    banClickCommand: "https://ww400.smartadserver.com/diff/400/4005631/go5.asp?4005631%3B114873%3B4482196059497374720%3B1672914999421018%3BS%3Bsystemtarget=%24qc%3d1310319556%3b%24ql%3dlow%3b%24qpc%3d%3b%24qpp%3d0%3b%24qt%3d57_0_0t%3b%24dma%3d0%3b%24b%3d12450%3b%24o%3d99999%3b%24sw%3d1280%3b%24sh%3d768%3Btarget=%24dt%3d1t%3bautomatic_refresh%3dtrue%3buser_age%3d21%3buser_sexe%3dM%3benv%3dPROD%3bpr%3d0%3buser_id%3d1514870346%3busername%3dJoset+Manihuari+Yaricahua%3bfirstname%3dJoset%3blastname%3dManihuari+Yaricahua%3bpartners%3d0%3boffer_id%3d0%3bfocus%3dtrue%3bsite%3ddeezer%3buser_fc%3d1%3bfavorite_tag%3d0%3blang%3des%3bplayer_play%3d0%3bmt%3d0%3b%24hc%3B12364162%3Bclickvars="
+	},
+  cardFormat: {
+    advertiser: "",
+    bigAdFormatType: "swf",
+    bigAdFormatSize: "400x200",
+    bigAdUrlContent: "",
+    bigAdClickCommand: "",
+    bigAdRedirect: "",
+    clickCommand : "https://ww400.smartadserver.com/clic/countgo.asp?4005631;114873;4482196059497374720;1672914999421018;S;systemtarget=%24qc%3d1310319556%3b%24ql%3dlow%3b%24qpc%3d%3b%24qpp%3d0%3b%24qt%3d57_0_0t%3b%24dma%3d0%3b%24b%3d12450%3b%24o%3d99999%3b%24sw%3d1280%3b%24sh%3d768;target=%24dt%3d1t%3bautomatic_refresh%3dtrue%3buser_age%3d21%3buser_sexe%3dM%3benv%3dPROD%3bpr%3d0%3buser_id%3d1514870346%3busername%3dJoset+Manihuari+Yaricahua%3bfirstname%3dJoset%3blastname%3dManihuari+Yaricahua%3bpartners%3d0%3boffer_id%3d0%3bfocus%3dtrue%3bsite%3ddeezer%3buser_fc%3d1%3bfavorite_tag%3d0%3blang%3des%3bplayer_play%3d0%3bmt%3d0%3b%24hc;12364162;URL=",
+    bigAdTitle: "",
+    bigAdText: "",
+    smallAdFormatType: "image",
+    smallAdFormatSize: "25x25",
+    smallAdUrlContent: "",
+    smallAdText: "",
+    backgroundColor: "#FFFFFF"
+	},
+  tracking: {
+    clickTagMethod: "",
+    clickCommand : "https://ww400.smartadserver.com/clic/countgo.asp?4005631;114873;4482196059497374720;1672914999421018;S;systemtarget=%24qc%3d1310319556%3b%24ql%3dlow%3b%24qpc%3d%3b%24qpp%3d0%3b%24qt%3d57_0_0t%3b%24dma%3d0%3b%24b%3d12450%3b%24o%3d99999%3b%24sw%3d1280%3b%24sh%3d768;target=%24dt%3d1t%3bautomatic_refresh%3dtrue%3buser_age%3d21%3buser_sexe%3dM%3benv%3dPROD%3bpr%3d0%3buser_id%3d1514870346%3busername%3dJoset+Manihuari+Yaricahua%3bfirstname%3dJoset%3blastname%3dManihuari+Yaricahua%3bpartners%3d0%3boffer_id%3d0%3bfocus%3dtrue%3bsite%3ddeezer%3buser_fc%3d1%3bfavorite_tag%3d0%3blang%3des%3bplayer_play%3d0%3bmt%3d0%3b%24hc;12364162;URL=",
+    pixelAgence: "https://www.google-analytics.com/collect?v=1&tid=UA-60360509-1&cid=1672914999421018&t=pageview&dp=/test",
+    alenty: "",
+    timestamp: "1672914999421018"
+	},
+  options: {
+    refresh: false,
+    refreshDuration: 0
+	},
+  redirect: {
+	js: '%3Cscript%20type%3D%22text%2Fjavascript%22%3E%3C!--%0Agoogle_ad_client%3D%22ca-pub-4770306737042736%22%3B%0A%2F*%20HP_BTF%20*%2F%0Agoogle_ad_slot%3D%227618460771%22%3Bgoogle_ad_width%3D%22728%22%3Bgoogle_ad_height%3D%2290%22%3B%0A%2F%2F--%3E%0A%3C%2Fscript%3E%0A%3Cscript%20type%3D%22text%2Fjavascript%22%20src%3D%22%2F%2Fpagead2.googlesyndication.com%2Fpagead%2Fshow_ads.js%22%3E%3C%2Fscript%3E\r\n',
+        clickCommand : "https://ww400.smartadserver.com/clic/countgo.asp?4005631;114873;4482196059497374720;1672914999421018;S;systemtarget=%24qc%3d1310319556%3b%24ql%3dlow%3b%24qpc%3d%3b%24qpp%3d0%3b%24qt%3d57_0_0t%3b%24dma%3d0%3b%24b%3d12450%3b%24o%3d99999%3b%24sw%3d1280%3b%24sh%3d768;target=%24dt%3d1t%3bautomatic_refresh%3dtrue%3buser_age%3d21%3buser_sexe%3dM%3benv%3dPROD%3bpr%3d0%3buser_id%3d1514870346%3busername%3dJoset+Manihuari+Yaricahua%3bfirstname%3dJoset%3blastname%3dManihuari+Yaricahua%3bpartners%3d0%3boffer_id%3d0%3bfocus%3dtrue%3bsite%3ddeezer%3buser_fc%3d1%3bfavorite_tag%3d0%3blang%3des%3bplayer_play%3d0%3bmt%3d0%3b%24hc;12364162;URL="
+	}
+});
+
+
+
